@@ -1,0 +1,3 @@
+[submodule "Assets/Gameplay"]
+	path = Assets/Gameplay
+	url = https://github.com/CorneliusBrutus/gameplay_core.git
